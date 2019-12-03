@@ -24,7 +24,7 @@ public class GoogleAPI {
     // wrapper class for all of our Google API related members
     static final String DETAILS_BASE_URL = "https://maps.googleapis.com/maps/api/place/details/json?";
     static final String SEARCH_BASE_URL = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?";
-    static final String API_KEY = "AIzaSyAUZiAsCfcqxmM-79ZIAx1WYWiykQzlbjk"; // BAD PRACTICE!!
+    static final String API_KEY = ""; // TODO add API Key BAD PRACTICE!!
     static final String TAG = "GoogleAPITag";
     static String input = "";
     static String location = "";
